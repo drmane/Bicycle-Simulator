@@ -1,0 +1,916 @@
+0    [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1021 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado un poco
+1126 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado un poco
+1370 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado bastante
+1544 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado bastante
+1629 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1859 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+2867 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+0    [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1148 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido la cadencia
+1287 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido la cadencia
+1560 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1560 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1567 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado la cadencia
+1709 [AWT-EventQueue-0] ERROR modelo.Modelo - ERROR!! No se puede aumentar mas la cadencia
+1709 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado la cadencia
+2232 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el tiempo de duracion de pedalada
+2370 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el tiempo de duracion de pedalada
+2825 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminudo el tiempo de duracion de pedalad
+2965 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminudo el tiempo de duracion de pedalad
+0    [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1576 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1577 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+4506 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un plato menor
+4506 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el plato
+5069 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un plato menor
+5069 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el plato
+5242 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un plato menor
+5242 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el plato
+5558 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el plato
+5731 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el plato
+5872 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 3platos
+5873 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el plato
+5975 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 3platos
+5975 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el plato
+6081 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 3platos
+6081 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el plato
+6184 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6195 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7428 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7467 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7532 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8440 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8658 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8886 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9165 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9309 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9644 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9867 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10079 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+10537 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+10789 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11360 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11444 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12057 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12127 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12635 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12850 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13532 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+24477 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+0    [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1575 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1576 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1896 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+2036 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+2176 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+2280 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+2420 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+2561 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+2665 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+2665 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+2805 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+2805 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+2943 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+2943 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+3084 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+3084 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+3189 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+3189 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+3329 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+3329 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+6316 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7305 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7610 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7677 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8818 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9148 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9338 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9831 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+10062 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10734 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+10754 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11455 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11600 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12143 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12388 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13134 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13418 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13831 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+14603 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+15701 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+0    [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+877  [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+1019 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+1157 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+1261 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+1367 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+1543 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+1565 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1617 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1647 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+1647 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+1787 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+1787 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+1925 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+1926 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+2031 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+2031 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+2171 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+2171 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+2276 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+2277 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+2416 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+2416 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+2555 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+2555 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+2697 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+2697 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+2835 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+2835 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+2976 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+2976 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+3117 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+3117 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+3256 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+3256 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+3361 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+3361 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+3500 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+3501 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+0    [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1541 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1541 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+4606 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el plato
+5198 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+5304 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+5408 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+5547 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+5689 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+5793 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+5932 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+5933 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+6072 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+6072 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+6100 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6108 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6177 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+6177 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+6316 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+6317 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+6422 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+6422 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+6563 [AWT-EventQueue-0] ERROR modelo.Modelo - Solo hay 7piñones
+6563 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+7373 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7438 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7517 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8587 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8804 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9110 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9400 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9595 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9822 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+9965 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+10503 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11031 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11337 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12037 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12116 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12849 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12982 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13535 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13870 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+14716 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+0    [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1590 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1591 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+2808 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+2947 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+3262 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+3400 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha aumentado el piñon
+3681 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+3820 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+0    [main] INFO  modelo.Modelo - Log inicializado
+14   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1558 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1560 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6135 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6135 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7394 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7458 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7459 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8568 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8569 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9082 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9083 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9564 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9565 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9789 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10450 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+10451 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11276 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11276 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12026 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12027 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12727 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12727 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13385 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13386 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+0    [main] INFO  modelo.Modelo - Log inicializado
+10   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1653 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1655 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1679 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+6554 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7816 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7896 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7964 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9170 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9275 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9714 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+10243 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+10486 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10514 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11083 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11225 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11613 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12127 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12594 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12956 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13506 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13747 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+14346 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+14484 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+15142 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+15870 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+0    [main] INFO  modelo.Modelo - Log inicializado
+10   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1575 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1576 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6292 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6293 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7587 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7651 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7652 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8801 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8802 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9331 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9331 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9825 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9825 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+10056 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10738 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+10740 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11589 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11590 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12388 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12389 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+0    [main] INFO  modelo.Modelo - Log inicializado
+10   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1584 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1586 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+4911 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+6249 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7577 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7645 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8768 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8824 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9356 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9850 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+10083 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10736 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+10789 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11662 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12221 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12472 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12849 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13225 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13435 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13924 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+14476 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+15424 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+16300 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+17116 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+17870 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+0    [main] INFO  modelo.Modelo - Log inicializado
+10   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1533 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1536 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6053 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6054 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7319 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7383 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7384 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8489 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8490 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8993 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8993 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9462 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9463 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9679 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10334 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+10336 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11142 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11143 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11897 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11897 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12609 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12609 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13276 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13277 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+0    [main] INFO  modelo.Modelo - Log inicializado
+10   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1527 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1530 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6090 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6091 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7363 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7428 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7429 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7546 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+8602 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8603 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9126 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9127 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9609 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha seleccionado el ciclista 2
+9619 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9621 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9863 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10553 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+10554 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11409 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11409 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12203 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12203 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12950 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12951 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13655 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13655 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1    [main] INFO  modelo.Modelo - Log inicializado
+11   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1300 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+1302 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+1440 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+1440 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+1559 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1560 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1579 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+1579 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+1686 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+1686 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+1825 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+1826 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+1964 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+1965 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+6285 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6286 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7562 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7627 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7627 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8746 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8747 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9256 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9257 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9739 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9740 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9960 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10622 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+10623 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11446 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11446 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12211 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12211 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12938 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12939 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13620 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13620 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+24391 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+33685 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un plato menor
+33685 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el plato
+33823 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un plato menor
+33823 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el plato
+33962 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un plato menor
+33963 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el plato
+34277 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un plato menor
+34278 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el plato
+36691 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+36691 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+36830 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+36831 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+36971 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+36971 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+37110 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+37110 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+37216 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+37216 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+0    [main] INFO  modelo.Modelo - Log inicializado
+10   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1588 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1589 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6171 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6172 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7437 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7501 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7502 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8620 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8621 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9125 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9126 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9605 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9605 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9823 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10494 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+10495 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11319 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11320 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12089 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12089 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12803 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12804 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13479 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13480 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+24294 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+0    [main] INFO  modelo.Modelo - Log inicializado
+10   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1550 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1552 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+0    [main] INFO  modelo.Modelo - Log inicializado
+10   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1589 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1590 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+2086 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un plato menor
+2087 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el plato
+2260 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un plato menor
+2260 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el plato
+2541 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un plato menor
+2541 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el plato
+2681 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un plato menor
+2681 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el plato
+3134 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+3135 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+3239 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+3239 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+3380 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+3380 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+3485 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+3486 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+6217 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6218 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7490 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7554 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7555 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8702 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8703 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9222 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9223 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9713 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9714 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9940 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10648 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+10649 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11498 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11499 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12287 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12288 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13020 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13022 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13720 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13721 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+0    [main] INFO  modelo.Modelo - Log inicializado
+10   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1578 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1579 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6248 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6249 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7253 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+7552 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7619 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8759 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9273 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9525 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9768 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9991 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10667 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11505 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12086 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12290 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12962 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13033 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13717 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13729 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+14984 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+16088 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+17063 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+17949 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+18773 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+0    [main] INFO  modelo.Modelo - Log inicializado
+9    [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1555 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1556 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6179 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6180 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7463 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7533 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7535 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8683 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8684 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9200 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9201 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9689 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9689 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9912 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10594 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+10595 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11422 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11423 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12221 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12221 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12961 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12962 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13661 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13662 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+0    [main] INFO  modelo.Modelo - Log inicializado
+10   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1594 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1595 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+5909 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado bastante
+6236 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6379 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6605 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado bastante
+7060 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado bastante
+7514 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado bastante
+7522 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7587 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8724 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9241 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9728 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9956 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10640 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+10999 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11480 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12029 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado bastante
+12168 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado bastante
+12255 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12343 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado bastante
+12484 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado bastante
+12988 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13078 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+13253 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+13394 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+13569 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+13679 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13707 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+13883 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+14092 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+14267 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+14443 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+14757 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+14931 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+15143 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+15353 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+15528 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+15736 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+0    [main] INFO  modelo.Modelo - Log inicializado
+10   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1611 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1613 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6473 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6474 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7787 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7851 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7852 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8985 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8985 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9499 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9500 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9510 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+9511 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+9648 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+9649 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+9790 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+9790 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+9929 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+9931 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+9991 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9991 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+10033 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+10034 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+10140 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+10140 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+10216 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10278 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+10278 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+10382 [AWT-EventQueue-0] ERROR modelo.Modelo - No se puede disminuir a un piñon menor
+10384 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha disminuido el piñon
+10900 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+10901 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11763 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11764 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12542 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12543 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13280 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13280 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13981 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13982 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+25268 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+0    [main] INFO  modelo.Modelo - Log inicializado
+9    [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+0    [main] INFO  modelo.Modelo - Log inicializado
+14   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1600 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+1603 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6242 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+6243 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7506 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7570 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+7571 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8695 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+8695 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9204 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9205 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9686 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9686 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+9910 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10582 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+10583 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11407 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+11408 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12171 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12171 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12890 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+12890 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13580 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+13581 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente
+0    [main] INFO  modelo.Modelo - Log inicializado
+11   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1588 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 0
+1589 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+6114 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 0
+6115 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+7369 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7413 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 0
+7413 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+0    [main] INFO  modelo.Modelo - Log inicializado
+10   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1572 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 01
+1573 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 11
+6311 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 01
+6312 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 11
+7625 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7691 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 01
+7692 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 11
+8860 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 01
+8860 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 11
+9381 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 01
+9382 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 11
+9873 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 01
+9873 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 11
+10102 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10798 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 01
+10799 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 11
+11649 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 01
+11650 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 11
+12435 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 01
+12435 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 11
+13169 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 01
+13170 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 11
+13879 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 01
+13879 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 11
+0    [main] INFO  modelo.Modelo - Log inicializado
+10   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1650 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+1652 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+6278 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+6279 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+7545 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7610 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+7610 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+8761 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+8762 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9278 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+9279 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9768 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+9769 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9998 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10167 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+10680 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+11545 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+12324 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+13052 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+13419 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+13753 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+15581 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+0    [main] INFO  modelo.Modelo - Log inicializado
+10   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1242 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+1649 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+2230 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+3689 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+6411 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+7713 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7780 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+8939 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9213 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+9462 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9955 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+10184 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10699 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+10877 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+11725 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+11921 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+12471 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+12513 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+12987 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+13254 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+13933 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+13948 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+14808 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+15619 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+16378 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+17094 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+25061 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+38737 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha seleccionado el ciclista 2
+0    [main] INFO  modelo.Modelo - Log inicializado
+10   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1568 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+1572 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+6159 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+6160 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+7415 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7479 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+7480 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+8595 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+8596 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9098 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+9099 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9575 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+9576 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9801 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10467 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+10468 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+11289 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+11290 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+12054 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+12055 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+12773 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+12774 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+13454 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+13455 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+0    [main] INFO  modelo.Modelo - Log inicializado
+10   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1302 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+1576 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+2104 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+3017 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+6223 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+7515 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7581 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+8667 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+8715 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9228 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9715 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9940 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10081 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+10622 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+0    [main] INFO  modelo.Modelo - Log inicializado
+10   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1560 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+1561 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+1685 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+2698 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+2907 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+3049 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+3223 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+3362 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+3536 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+3675 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+6206 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+7481 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7546 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+8684 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9197 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9367 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+9684 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9909 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10590 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+10770 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+11421 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+11937 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+12196 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+12464 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+12926 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+12962 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+13606 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+13871 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+14723 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+15512 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+16248 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+16942 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+24511 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+0    [main] INFO  modelo.Modelo - Log inicializado
+10   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1558 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+1560 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+6060 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+6061 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+7309 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7372 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+7373 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+8470 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+8471 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+8972 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+8973 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9451 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+9452 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9671 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10320 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+10321 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+11134 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+11135 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+11885 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+11885 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+12589 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+12591 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+13263 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+13264 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+0    [main] INFO  modelo.Modelo - Log inicializado
+10   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1597 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+1599 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+6411 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+6412 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+7716 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7783 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+7783 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+8947 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+8949 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9478 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+9479 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9975 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+9975 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+10205 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10894 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+10895 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+11744 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+11745 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+12531 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+12532 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+13275 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+13276 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+13977 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+13978 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+0    [main] INFO  modelo.Modelo - Log inicializado
+10   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1556 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+1557 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+6121 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+6122 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+7381 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7445 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+7446 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+8556 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+8556 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9059 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+9059 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9536 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+9536 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9757 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10415 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+10416 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+11235 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+11236 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+12000 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+12002 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+12725 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+12726 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+13405 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+13406 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+0    [main] INFO  modelo.Modelo - Log inicializado
+16   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+1669 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+1669 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+5616 [AWT-EventQueue-0] INFO  modelo.Modelo - Se ha frenado totalmente
+6256 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+7535 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+7597 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+8299 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+8720 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9235 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9719 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+9937 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+10608 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+10608 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+11435 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+12152 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+12215 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+12808 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+12948 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+13400 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+13619 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+14446 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+15397 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+16255 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+17051 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+17800 [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+24383 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento

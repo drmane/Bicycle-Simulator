@@ -1,0 +1,16 @@
+0    [main] INFO  modelo.Modelo - Log inicializado
+92   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+237  [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+242  [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+246  [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+247  [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 3
+248  [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 4
+2935 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+3773 [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+0    [main] INFO  modelo.Modelo - Log inicializado
+14   [main] INFO  modelo.Modelo - Se ha seleccionado el ciclista 1
+68   [main] INFO  modelo.Modelo - Se ha producido un cambio en el viento
+74   [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 1
+80   [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 2
+81   [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 3
+82   [main] INFO  modelo.Modelo - Se ha producido un cambio de pendiente en la bici 4

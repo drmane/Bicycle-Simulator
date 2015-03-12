@@ -1,0 +1,12 @@
+bicicleta 1 cambia plato 2
+bicicleta 1 cambia pinon 5
+bicicleta 2 cambia plato 3
+bicicleta 2 cambia pinon 4
+bicicleta 3 cambia plato 3
+bicicleta 3 cambia pinon 2
+bicicleta 4 cambia plato 1
+bicicleta 4 cambia pinon 7
+ciclista 1 cadencia 40 periodo 800
+ciclista 2 cadencia 50 periodo 750
+ciclista 3 cadencia 55 periodo 950
+ciclista 4 cadencia 30 periodo 640

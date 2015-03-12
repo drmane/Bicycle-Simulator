@@ -1,0 +1,11 @@
+*****************
+*** Fallo     ***
+*****************
+
+-Si varias bicis llegan a la vez a un cambio de pendiente, es posible que pinte alguna mal
+esto es debido a que cuando notifica el cambio de pendiente al mapa, otra bici anterior ha llegado
+y no puede acceder al mapa porque esta ocupado y produce un error
+-Es un problema de Seccion Critica.
+-Se soluciona a veces al poner synchronized en el metodo (adquiere el monitor para que otro hilo no entre)
+-al ejecutar el metodo update, se crea un hilo nuevo (por eso hay que sincronizarlos)
+- A veces se finaliza la carrera habiendo ciclistas todavia en pista(si acaba alguna o si se mata alguno)
